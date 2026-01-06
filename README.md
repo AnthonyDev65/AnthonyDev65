@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Hello World!<br>💻 I am currently using C#, WPF, React, Astro, and the fundamentals of software architecture<br>🎯 Goals: to design clean, scalable applications and improve my problem-solving skills.<br>🎲 Fun fact: I prefer debugging code to writing new code.</p>
 
 ###
 
